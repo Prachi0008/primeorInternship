@@ -4,6 +4,7 @@ These are the tasks assigned for my frontend development role at Primeor Solutio
 The list of tasksis as follows:
 
 LEVEL 1 - TASK 1:
+
 HTML/CSS:
 ▪ Create a styled webpage using HTML & CSS
 with:
@@ -23,18 +24,21 @@ with:
 - Use proper fonts, colors, and layout to make the webpage look modern and user-friendly.
 
 LEVEL 1 - TASK 2:
+
 JavaScript:
 ▪ Develop an interactive button using JavaScript thatchanges its background color when clicked. Apply proper styling using CSS to make the button visually attractive and user-friendly.
 ▪ Create a dynamic alert box that displays greeting messages such as “Good Morning”, “Good Afternoon”, or “Good Evening” based on the user’s current system time using JavaScript conditions.
 ▪ Build a simple calculator application using JavaScript that accepts two numbers as input and performs addition. Display the calculated result instantly on the webpage with proper input validation and clean UI styling.
 
 LEVEL 2 - TASK 1:
+
 Front-end Frameworks:
 ▪ Use a front-end framework like Bootstrap or Tailwind CSS to create a responsive card component with an image and text.
 ▪ Implement a basic responsive grid layout using Bootstrap or Tailwind CSS.
 ▪ Design a responsive services section for a company website.
 
 LEVEL 2 - TASK 2:
+
 ▪ Convert a basic webpage into a responsive design that
 adapts to different screen sizes using CSS media
 queries.
@@ -47,6 +51,7 @@ using HTML and CSS.
 - Desktop screens
 
 LEVEL 3 - TASK 1:
+
 Image Manipulation:
 ▪ Use CSS to create a basic image gallery with
 thumbnail images that enlarge when clicked.
